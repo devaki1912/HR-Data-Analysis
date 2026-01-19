@@ -21,7 +21,7 @@ This project uses Power BI to build an interactive HR analytics dashboard that p
 - This project addresses these challenges by transforming raw HR data into actionable insights.
 
 ## Dataset Used
-- <a href="">Employee Data</a>
+- <a href="https://github.com/devaki1912/HR-Data-Analysis/blob/main/Employee%20Data.xlsx">Employee Data</a>
 
 ## Key Performance Indicators (KPIs)
 
@@ -37,13 +37,20 @@ The dashboard tracks the following HR KPIs:
 
 - Year-on-Year Attrition Trend – Changes in attrition levels year over year
 
-- <a href="">View Dashboard-Home Page</a>
+- <a href="https://github.com/devaki1912/HR-Data-Analysis/blob/main/DashboardSummary.png">View Dashboard-Summary</a>
 
-- <a href="">View Dashboard-Best/Worst Sellers</a>
+- <a href="https://github.com/devaki1912/HR-Data-Analysis/blob/main/DashboardHRAnalysis.png">View Dashboard-HR Analysis</a>
 
 
 ## Dashboard
 
+## Summary
+
+<img width="1332" height="750" alt="DashboardSummary" src="https://github.com/user-attachments/assets/23c9a0e1-94b6-4ebb-9dee-38729cf01b17" />
+
+## HR Analysis
+
+<img width="1355" height="750" alt="DashboardHRAnalysis" src="https://github.com/user-attachments/assets/d7b73850-a773-46b6-8ff1-3f6e249b9c4b" />
 
 
 ## Business Analysis Focus
