@@ -63,11 +63,11 @@ The analysis focuses on:
 
 - Analyzing headcount distribution by business unit and department
 
-= Evaluating workforce diversity by age group and gender
+- Evaluating workforce diversity by age group and gender
 
-= Understanding employee distribution across job titles
+- Understanding employee distribution across job titles
 
-= Enabling dynamic analysis using filters and slicers
+- Enabling dynamic analysis using filters and slicers
 
 ## Solution Approach
 
